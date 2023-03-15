@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>documento</title>
+    </head>
+    <body>
+        <div style="background-color: aqua; width:50%;">
+            <p><h1>this is a heading in a div element</h1></p>
+        </div>
+        <div style="background-color: red; width:50%;">
+            <p><h2>this is a heading in a div element</h2></p>
+        </div>
+        <div style="background-color: blue; width:50%;">
+            <p><h3>this is a heading in a div element</h3></p>
+        </div>
+        <div style="background-color: purple; width:50%;">
+            <P><h4>this is a reading in a div element</h4></P>
+        </div>
+        <div style="background-color:pink; width:50%;">
+            <p><h5>this is a heading in a div element</h5></p>
+        </div><br>
+        <label><h1>______________________________________</h1></label>
+        <div style="background-color: black; width:50%;">
+            <h1>1</h1>
+         </div>
+         <h1>this is a heading in a div element</h1>
+         <div style="background-color: black; width:50%;">
+            <h1>1</h1>
+        </div>
+        <h1>this is a heading in a div element</h1>
+        <div style="background-color: black; width:50%;">
+            <h1>1</h1>
+        </div>
+        <h1>this is a heading in a div element</h1>
+        <div style="background-color: black; width:50%;">
+            <h1>1</h1>
+        </div>
+        <h1>this is a heading in a div element</h1>
+        <div style="background-color: black; width:50%;">
+            <h1>1</h1>
+        </div>
+        <h1>this is a heading in a div element</h1>
+        <div style="background-color: black; width:50%;">
+            <h1>1</h1>
+        </div>
+        <h1>this is a heading in a div element</h1>
+        <br><br>
+        <div style="background-color: bisque;">
+            <fieldset>
+                <legend> usando divs</legend>
+                <div style="background-color: brown;">
+                    <p>div interna</p>
+                </div>
+            </fieldset>
+        </div>
+            
+    </body>
+</html>
